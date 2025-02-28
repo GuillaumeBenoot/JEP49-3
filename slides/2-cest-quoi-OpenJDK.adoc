@@ -1,0 +1,95 @@
+== OpenJDK
+
+* Praticipant
+* Contributeur
+* OpenJDK Member
+* OpenJDK Lead
+
+
+[.notes]
+--
+La *communauté OpenJDK* est une association de développeur qui collabore autour de l'implémentation open source de la plateforme java standard édition (Java SE).
+Elle a été créée en 2006, quand une partie du code source de java a été publié sous License GPLv2. (GNU General Public Licence version 2  - le logiciel peut être copié, modifié et distribué à condition que les copie et dérivé soit également distribué sous même licence)
+
+La communauté est composé de développeurs avec differents statu.
+
+* *Participant* qui a souscrit a une ou plusieurs mailing list d'OpenJDK et qui aura le droit de soumettre de simple patch ou de participer a de petites contributions.
+* *Contributeur* qui pourra soumettre des patch plus important, proposer des projets et prendre differents rôle dans un groupe ou un projet.
+
+**A noter qu'il doit signer *l'oracle Contributor Agreement* ou travailler pour une organisation qui l'a signé.**
+C'est un document juridique qui cède les droits du code que l'on a écris à Oracle.
+
+* *OpenJDK Member* c'est un **contributeur** qui a un historique de contributions signifiantes et reconnu par un vote des autres **OpenJDK members**.
+Il peut proposer de nouveaux groupes, il peut être leader d'un groupe, et peut participer aux votes de nouveaux projets, de nouveaux membres.
+* *OpenJDK Lead* est une **OpenJDK member** nommé par Oracle qui dirige les principaux efforts de la communauté, à savoir les nouvelle release du JDK.
+Il est responsable de l'ouverture et de la transparence du processus de développement et peut régler certain type de conflits de procédure.
+Il siège au conseil d'administration.
+
+Ils vont constituer des groupes.
+--
+
+[.columns.is-vcentered.transparency]
+=== Group
+[.columns.small-list]
+--
+* Adoption
+* Build
+* Client Libraries
+* Compatibility & Specification Review
+* Compiler
+* Conformance
+* Core Libraries
+* Governing Board
+* HotSpot
+* IDE Tooling & Support
+--
+[.column.small-list]
+--
+* Internationalization
+* JMX
+* Members
+* Networking
+* Porters
+* Quality
+* Security
+* Serviceability
+* Vulnerability
+* Web
+--
+
+[.notes]
+--
+Ces groupes vont sponsoriser et financer des projets.
+
+Un *projet* est effort collaboratif qui a **pour but de produire** du code, de la documentation, ou tout autre type de matériel.
+Un projet peut aller de la petite feature à l'entièreté d'un release JDK.
+Et il peut être constitué d'une ou de plusieurs JEP.
+
+Financement (avec des exemples)
+
+--
+
+=== conseil d'administration (Governing Board)
+
+* *Président* nommé par **Oracle** (Georges Saab)
+* *Vice-président* nommé par **IBM** (Annette Keenleyside)
+* *OpenJDK Lead* (Mark Reinhold)
+* 2 membres extraordinaires
+
+[.notes]
+--
+Tout ceci est piloté par un conseil d'administration composé
+
+* 2 membres extraordinaires, qui sont *nommé choisis par un vote des OpenJDK Members* pour une durée de 1 an à compter du 1er Avril de chaque années.
+
+Le *conseil de gouvernance* gère la structure et les opérations de la communauté.
+Il fait respecter et maintient le règlement, résout les litiges de procédure et veille à ce qu'une infrastructure suffisante soit disponible.
+Le conseil de gouvernance *n'a pas d'autorité directe sur les décisions techniques* ou de diffusion.
+
+OpenJDK suis roadmap de l'évolution de java sur au moins 3 ans.
+
+La roadmap c'est une liste JEP qui ont été jugées candidates pour les prochaines version du JDK.
+Elles sont ajoutées uniquement d'un point de vue technique, mais il n'y aucune garantie que quelqu'un travaille dessus et qu'elles finissent par être ajoutées dans une release du JDK
+--
+
+

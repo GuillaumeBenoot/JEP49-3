@@ -1,0 +1,31 @@
+== C'est quoi une JEP
+
+JEP = *JDK Enhancement Proposal*
+
+
+[.notes]
+--
+Une JEP ou *JDK Enhancement Proposal* doit être rédigée, pour toutes modifications significatives du JDK, ou si une modification demande plus de 2 semaines de travail, ou si cette modification vient suite à une grande demande des développeurs.
+
+Cela dit, il y beaucoup de modification qui ne remplisse pas ces conditions et qui sont quand même intégrée aux JDK
+--
+
+=== une JEP
+
+image::JEP-485-Stream-Gatherers.png[height=60%]
+
+[.notes]
+--
+Une JEP c'est un document texte, qui va ressemble à ça et qui va permettre de définir cette nouvelle fonctionnalité.
+C'est un document *vivant* qui va évoluer au court de ça vie.
+
+__on affiche une JEP__
+
+On verra un peu après plus en détail ce qu'il contient.
+
+on va compléter le template d'une JEP, puis le soumettre par mail à *OpenJDK* .
+
+Après vérification que la JEP est correctement rédigée, OpenJDK va lui attribut un numéro et elle est archivée sur un repo grâce auquel on pourra la récupéré et la modifier..
+
+C'est a partir de ce document que le travaille va commencer dans la communauté OpenJDK.
+--

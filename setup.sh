@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+cd slides
 git clone https://github.com/hakimel/reveal.js --depth 1 --branch 5.1.0
 rm -rf reveal.js/.git
 git clone https://github.com/denehyg/reveal.js-menu --depth 1 --branch 2.1.0 reveal.js/plugin/menu
