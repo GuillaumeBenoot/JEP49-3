@@ -11,6 +11,43 @@ h2{
     color: #009DDF !important;
 }
 
+.image-scroll  .imageblock{
+    height: 60vh;
+    overflow: auto !important;
+}
+.image-scroll  .imageblock img{
+    height: auto !important;
+    max-height: none;
+    width: 80% !important;
+}
+
+.img-left .content{
+    display: flex;
+    column-gap: 30px;
+}
+.img-left .imageblock img{
+    width: 64px;
+    height: 64px;
+}
+.img-left .content .paragraph{
+    flex: 1;
+    text-align: left;
+}
+.img-left .content .imageblock{
+    flex-shrink: 0;
+}
+.aligner-items .content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.urne{
+    flex-direction: column;
+}
+.entoure{
+    flex-basis: 50%;
+}
+
 body {
 
 

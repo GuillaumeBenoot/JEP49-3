@@ -1,4 +1,9 @@
 = JEP 49.3 - cette nouvelle fonctionnalité Java est validée !!!
+
+[.notes]
+--
+Bonjour, aujourd'hui on va parler de java, du JDK et plus précisément de JEP, comment elles naissent, comment elles vivent, comment vous pouvez y contribuer ou à défaud ce qu'elles peuvent apporter.
+--
 :docinfo: private
 :source-highlighter: highlight.js
 :highlightjsdir: highlight.js
@@ -18,7 +23,8 @@
 include::0-Presentation.adoc[]
 include::1-cest-quoi-une-JEP.adoc[]
 include::2-cest-quoi-OpenJDK.adoc[]
-include::3-le-processus-de-validation-dune-JEP.adoc[]
+include::3-Workflow-JEP.adoc[]
 include::4-lire-une-JEP.adoc[]
 include::5-conclusion.adoc[]
+
 

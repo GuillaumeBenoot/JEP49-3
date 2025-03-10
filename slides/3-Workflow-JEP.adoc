@@ -1,0 +1,13 @@
+[%notitle]
+== La vie d'une JEP
+
+image::jep-life-cycle.png[width=100%]
+
+[.notes]
+--
+* Draft : on commence a partager la JEP pour trouver des soutiens.
+* Submitted : prête pour être évalué pour la roadmap JDK
+* Candidate : Ajoutée à la feuille de route JDK par le responsable d’OpenJDK. Cela indique une idée prometteuse, mais sans engagement pour une version précise.
+* Integrated : Les codes et tests unitaires sont intégrés à la base principale.
+* Complete : Tests fonctionnels, de performance et de conformité achevés, seule la correction de bugs reste.
+--

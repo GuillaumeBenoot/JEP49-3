@@ -1,3 +1,20 @@
 == conclusion
 
-?
+
+Participer
+
+S'informer
+
+[.notes]
+--
+* Communication
+* surveillance forum
+* information intéressante
+--
+
+
+=== Feedback
+
+image::QRCodeSOD2025.svg[]
+
+Merci

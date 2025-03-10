@@ -3,7 +3,7 @@
 
 [.column.is-one-third]
 --
-image::DSC00186.JPG[portrai-perso, width=300]
+image::photo-perso.JPG[portrait-perso, width=300]
 --
 [.column.is-3.has-text-center.medium]
 --
@@ -18,19 +18,28 @@ Onepoint BDX
 
 [.notes]
 --
-* Onepoint
-* ESN
+* Onepoint - 3 ans
+* ESN - éléments de langage
 * affiliation Qualiopi
 --
 
-[%notitle]
+[%notitle.columns.is-vcentered.transparency]
 === intro
+[.column.is-one-third]
+--
+image::intro-temporaire.png[witdh=50%]
+--
 
-image::intro-temporaire.png[]
+[.column.is-3.has-text-center.medium]
+--
+JDK = Java Development Kit
+--
 
 [.notes]
 --
 Tous les 6 mois, une nouvelle version de java sort.
 Le JDK est mis à jour, et de nouvelle fonctionnalités sont ajoutées, voir parfois retirées.
 Le JDK c'est le *java kit developpement*, et il contient tout un tas d'outils et de librairie qui vont aider le développeur Java à créer des applications.
+
+Avec chaque mise à jour du JDK on entent parler de JEP, mais c'est quoi une JEP ?
 --
