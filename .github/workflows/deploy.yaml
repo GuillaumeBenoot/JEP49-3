@@ -60,4 +60,4 @@ jobs:
         with:
           folder: slides/build
           branch: gh-pages
-          clean: false
+#          clean: false
