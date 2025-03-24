@@ -144,23 +144,23 @@ Projetc lead
 
 === conseil d'administration
 
-[%step.img-left]
+[%step.img-left.conseil-bord]
 --
 image::maire.png[]
 *Président* nommé par **Oracle** (Georges Saab)
 --
-[%step.img-left]
+[%step.img-left.conseil-bord]
 --
 image::vicePresident.png[]
 *Vice-président* nommé par **IBM** (Annette Keenleyside)
 --
 
-[%step.img-left]
+[%step.img-left.conseil-bord]
 --
 image::openjdlLead.png[]
 *OpenJDK Lead* (Mark Reinhold)
 --
-[%step.img-left]
+[%step.img-left.conseil-bord]
 --
 image::personne-vip.png[]
 2 membres extraordinaires

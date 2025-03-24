@@ -27,7 +27,7 @@ Onepoint BDX
 === intro
 [.column.is-one-third]
 --
-image::intro-temporaire.png[witdh=50%]
+image::release-JDK.png[witdh=50%]
 --
 
 [.column.is-3.has-text-center.medium]

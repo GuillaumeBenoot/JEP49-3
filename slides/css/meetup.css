@@ -47,6 +47,9 @@ h2{
 .entoure{
     flex-basis: 50%;
 }
+.conseil-bord{
+    font-size: 40px !important;
+}
 
 body {
 
