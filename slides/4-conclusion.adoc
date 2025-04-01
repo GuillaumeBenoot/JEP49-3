@@ -7,8 +7,8 @@
 
 [.notes]
 --
-* code = OCA
-* test, feedback, reproduction
+* code = Oracle Ccontributor Agreement
+* test, feedback, reproduction de bug
 * proposition technique
 * et bien d'autre....
 --

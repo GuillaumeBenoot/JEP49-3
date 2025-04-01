@@ -14,7 +14,7 @@ Elle a été créée en 2006, quand une partie du code source de java a été pu
 
 (GNU General Public Licence version 2  - le logiciel peut être copié, modifié et distribué à condition que les copies et dérivé soit également distribué sous même licence)
 
-La communauté est composé de développeurs avec differents statu.
+La communauté est composé de développeurs avec différents statuts.
 --
 
 [%notitle.columns.is-vcentered.transparency]
@@ -138,7 +138,7 @@ image::oracle.png[]
 
 [.notes]
 --
-Un  projet peut être **sponsorisé par plusieurs groupe**.
+Un  projet peut être **sponsorisé par plusieurs groupes**.
 
 Si un projet n'a plus de sponsor, alors il est dissous.
 

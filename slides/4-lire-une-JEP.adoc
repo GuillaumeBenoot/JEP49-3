@@ -10,21 +10,34 @@ issue -> jira pour déclaré les bugs
 
 --
 
-[%notitle]
-=== summary
-[.small-list]
+[%notitle.columns.is-vcentered.transparency]
+=== rubrique template
+[.column]
 --
-* Summary - REQUIRED
+Obligatoire
+--
+
+[%step.column]
+---
+* Summary
+* Description
+
+[%step]
+--
 * Goals
 * Non-Goals
-* Success Metrics
-* Motivation
-* Description - REQUIRED
-* Alternatives
-* Testing
-* Risks and Assumptions
-* Dependencies
 --
+
+// [%step]
+// --
+// * Success Metrics
+// * Motivation
+// * Alternatives
+// * Testing
+// * Risks and Assumptions
+// * Dependencies
+// --
+---
 
 [.notes]
 --
