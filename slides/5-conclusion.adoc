@@ -1,26 +1,34 @@
-== conclusion
 
+== Contribuer
 
-Participer
-
-S'informer
+* Du code mais pas que...
+* test + feedback
+* Discussion
 
 [.notes]
 --
-* Communication
-* surveillance forum
-* information intéressante
+* code = OCA
+* test, feedback, reproduction
+* proposition technique
+* et bien d'autre....
+--
 
-* Si vous êtes motivé, n'hésitez pas à aller participer.
-n'importe qui peut proposer une nouveauté via une JEP, mais pour la dev, ça sera une autre histoire. Il va falloir du temps, et faire ce preuve.
-* OpenJDK attends beaucoup de communication et de sociabilisation de la part de ces membres (voir première PR)
-* Dans tout les cas, alors voir ce qu'il y a dans un JEP aide à mieux comprendre une nouvelle fonctionnalité.
-* Et il est très intéressant de voir les nouveauté que le JDK nous reserve dans ces prochaines release.
+=== S'informer
+
+[.notes]
+--
+* mieux comprendre une nouvelle fonctionnalité.
+* meilleur comprehension du JDK
 --
 
 
 === Feedback
 
-image::QRCodeSOD2025.svg[]
+image::TechpointQRCode.png[]
 
 Merci
+
+[.notes]
+--
+Répéter les questions !!!
+--

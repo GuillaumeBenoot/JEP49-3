@@ -1,7 +1,7 @@
 [%notitle]
 == OpenJDK
 
-image::openjdk.jpg[]
+image::openjdk_sans_fond.png[]
 
 * Java SE
 * GPLv2
@@ -19,17 +19,24 @@ La communauté est composé de développeurs avec differents statu.
 
 [%notitle.columns.is-vcentered.transparency]
 === Participant
+
 [.column]
 --
 image::personnage.svg[portrait-perso,witdh=300]
 Participant
 --
+
 [.column]
 --
 
 image::e-mail.png[]
 
 image::codage.png[]
+--
+
+[.notes]
+--
+* participer au discussion
 --
 
 [%notitle.columns.is-vcentered.transparency]
@@ -49,7 +56,7 @@ ORACLE CONTRIBUTOR AGREEMENT
 
 [.notes]
 --
-* patch plus important
+* OCA document juridique
 * proposer des projets
 * prendre differents rôle dans un groupe ou un projet.
 --
@@ -104,7 +111,7 @@ image::oracle.png[]
 --
 * *OpenJDK Lead* est une **OpenJDK member** nommé par Oracle
 * dirige les principaux efforts de la communauté, à savoir les nouvelle release du JDK.
-* Il est responsable de l'ouverture et de la transparence du processus de développement et peut régler certain type de conflits de procédure.
+* Il décide de la **ROADMAP**
 * Il siège au conseil d'administration.
 --
 
@@ -117,15 +124,16 @@ image::oracle.png[]
 
 [.notes]
 --
-Vingtaine de groupes
-Des roles dans les groupes
+* Vingtaine de groupes
+* Des roles dans les groupes
+* sponso =  moyen humain
 --
 
 === Projet
 [%step]
 * Production de code, documentation, ...
-* Feature, release JDK
 * Sponsorisé par un groupe
+* Feature, release JDK
 * Auteur, committer, reviewer, project lead
 
 [.notes]
@@ -176,6 +184,8 @@ Tout ceci est piloté par un conseil d'administration composé
 Le *conseil de gouvernance* gère la structure et les opérations de la communauté.
 Il fait respecter et maintient le règlement, résout les litiges de procédure et veille à ce qu'une infrastructure suffisante soit disponible.
 Le conseil de gouvernance *n'a pas d'autorité directe sur les décisions techniques* ou de diffusion.
+
+Maintenant que l'on sait qui est qui...
 
 
 --

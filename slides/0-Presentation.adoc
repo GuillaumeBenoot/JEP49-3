@@ -41,5 +41,5 @@ Tous les 6 mois, une nouvelle version de java sort.
 Le JDK est mis à jour, et de nouvelle fonctionnalités sont ajoutées, voir parfois retirées.
 Le JDK c'est le *java kit developpement*, et il contient tout un tas d'outils et de librairie qui vont aider le développeur Java à créer des applications.
 
-Avec chaque mise à jour du JDK on entent parler de JEP, mais c'est quoi une JEP ?
+Avec chaque mise à jour du JDK on entent parler des JEP qui y sont ajoutées, mais c'est quoi une JEP ?
 --
