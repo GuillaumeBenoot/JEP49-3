@@ -31,7 +31,7 @@ Participant
 
 image::e-mail.png[]
 
-image::codage.png[]
+image::communication.png[]
 --
 
 [.notes]
@@ -140,7 +140,7 @@ image::oracle.png[]
 --
 Un  projet peut être **sponsorisé par plusieurs groupe**.
 
-Si un projet n'a plus de sponsor, alors il est dissolue.
+Si un projet n'a plus de sponsor, alors il est dissous.
 
 Projetc lead
 
