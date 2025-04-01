@@ -24,7 +24,6 @@ include::0-Presentation.adoc[]
 include::1-cest-quoi-une-JEP.adoc[]
 include::2-cest-quoi-OpenJDK.adoc[]
 include::3-Workflow-JEP.adoc[]
-include::4-lire-une-JEP.adoc[]
-include::5-conclusion.adoc[]
+include::4-conclusion.adoc[]
 
 
