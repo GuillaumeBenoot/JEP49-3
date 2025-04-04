@@ -32,14 +32,14 @@ image::release-JDK.png[witdh=50%]
 
 [.column.is-3.has-text-center.medium]
 --
-JDK = Java Development Kit
+*JDK* = **J**ava **D**evelopment **K**it
 --
 
 [.notes]
 --
 Tous les 6 mois, une nouvelle version de java sort.
 Le JDK est mis à jour, et de nouvelles fonctionnalités sont ajoutées, voir parfois retirées.
-Le JDK c'est le *java developpement kit*, et il contient tout un tas d'outils et de librairie qui vont aider le développeur Java à créer des applications.
+Le JDK c'est le *java developpement kit*, et il contient tout un tas d'outils et de librairies qui vont aider le développeur Java à créer des applications.
 
-Avec chaque mise à jour du JDK, on entend parler des JEP qui y sont ajoutées, mais c'est quoi une JEP ?
+Avec chaque mise à jour du JDK, on entend parler des JEP qui y sont ajoutées, mais c'est quoi vraiment une JEP ?
 --

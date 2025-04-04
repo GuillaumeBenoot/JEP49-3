@@ -1,4 +1,4 @@
-name: Build and deploy latest version
+name: Build and deploy tag release
 
 on:
   push:
@@ -29,14 +29,6 @@ jobs:
           options: -v ${{ github.workspace }}/slides:/documents
           run: asciidoctor-revealjs -r asciidoctor-diagram /documents/index.adoc
 
-          # Étape intermédiaire : Inspecter le contenu du répertoire et des fichiers
-      - name: Inspect directory and files
-        run: |
-          echo "Listing directory contents:"
-          ls -la
-          echo "Listing directory contents:"
-          ls -la slides
-
       - name: Copy build to folder 📦
         run: |
           cd slides && \
@@ -44,16 +36,6 @@ jobs:
           cp -r *.html images css highlight.js build/${{ github.ref_name }}/ && \
           cp -r reveal.js/dist/* build/${{ github.ref_name }}/reveal.js/dist/ && \
           cp -r reveal.js/plugin build/${{ github.ref_name }}/reveal.js/
-
-       # Étape intermédiaire : Inspecter le contenu du répertoire et des fichiers
-      - name: Inspect directory and files
-        run: |
-          echo "Listing directory contents:"
-          ls -la
-          echo "Listing directory contents:"
-          ls -la slides
-          echo "Listing directory contents:"
-          ls -la slides/build
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4.5.0

@@ -12,9 +12,9 @@ La *communauté OpenJDK* est une association de développeur qui collabore autou
 
 Elle a été créée en 2006, quand une partie du code source de java a été publié sous License GPLv2. (**LOGICIEL LIBRE**)
 
-(GNU General Public Licence version 2  - le logiciel peut être copié, modifié et distribué à condition que les copies et dérivé soit également distribué sous même licence)
+(GNU General Public License version 2  - le logiciel peut être copié, modifié et distribué à condition que les copies et dérivé soit également distribué sous même licence)
 
-La communauté est composé de développeurs avec différents statuts.
+La communauté est composée de développeurs qui vont avoir différents statuts.
 --
 
 [%notitle.columns.is-vcentered.transparency]
@@ -22,16 +22,16 @@ La communauté est composé de développeurs avec différents statuts.
 
 [.column]
 --
-image::personnage.svg[portrait-perso,witdh=300]
+image::icons/personnage.svg[portrait-perso,witdh=300]
 Participant
 --
 
 [.column]
 --
 
-image::e-mail.png[]
+image::icons/e-mail.png[]
 
-image::communication.png[]
+image::icons/communication.png[]
 --
 
 [.notes]
@@ -43,13 +43,13 @@ image::communication.png[]
 === Contributeur
 [.column]
 --
-image::personnage.svg[portrait-perso,witdh=300]
-Contributeur
+image::icons/personnage.svg[portrait-perso,witdh=300]
+Contributor
 --
 [.column]
 
 --
-image::contrat.png[]
+image::icons/contrat.png[]
 [.medium]
 ORACLE CONTRIBUTOR AGREEMENT
 --
@@ -58,14 +58,14 @@ ORACLE CONTRIBUTOR AGREEMENT
 --
 * OCA document juridique
 * proposer des projets
-* prendre differents rôle dans un groupe ou un projet.
+* Prendre different rôle dans un groupe ou un projet.
 --
 
 [%notitle.columns.is-vcentered.transparency]
 === OpenJDK Member
 [.column]
 --
-image::personnage.svg[portrait-perso,witdh=300]
+image::icons/personnage.svg[portrait-perso,witdh=300]
 OpenJDK Member
 --
 ++++
@@ -73,13 +73,13 @@ OpenJDK Member
 ++++
 [.column.aligner-items]
 --
-image::codage.png[]
-image::codage.png[]
-image::codage.png[]
+image::icons/codage.png[]
+image::icons/codage.png[]
+image::icons/codage.png[]
 --
 [.urne]
 --
-image::urne-electorale.png[]
+image::icons/urne-electorale.png[]
 --
 ++++
 </div>
@@ -98,7 +98,7 @@ image::urne-electorale.png[]
 === OpenJDK Lead
 [.column]
 --
-image::personnage.svg[portrait-perso,witdh=300]
+image::icons/personnage.svg[portrait-perso,witdh=300]
 OpenJDK Lead
 --
 [.column]
@@ -119,7 +119,7 @@ image::oracle.png[]
 
 [%step]
 * Build, Compiler, Security, Web...
-* Group Member, Group Lead
+* Membre ou leader
 * Sponsoriser des projets
 
 [.notes]
@@ -134,7 +134,7 @@ image::oracle.png[]
 * Production de code, documentation, ...
 * Sponsorisé par un groupe
 * Feature, release JDK
-* Auteur, committer, reviewer, project lead
+* author, committer, reviewer, project lead
 
 [.notes]
 --
@@ -154,23 +154,23 @@ Projetc lead
 
 [%step.img-left.conseil-bord]
 --
-image::maire.png[]
+image::icons/maire.png[]
 *Président* nommé par **Oracle** (Georges Saab)
 --
 [%step.img-left.conseil-bord]
 --
-image::vicePresident.png[]
+image::icons/vicePresident.png[]
 *Vice-président* nommé par **IBM** (Annette Keenleyside)
 --
 
 [%step.img-left.conseil-bord]
 --
-image::openjdlLead.png[]
+image::icons/openjdlLead.png[]
 *OpenJDK Lead* (Mark Reinhold)
 --
 [%step.img-left.conseil-bord]
 --
-image::personne-vip.png[]
+image::icons/personne-vip.png[]
 2 membres extraordinaires
 --
 
