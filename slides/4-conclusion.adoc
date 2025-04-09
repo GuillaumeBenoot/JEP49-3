@@ -1,0 +1,34 @@
+
+== Contribuer
+
+* Du code mais pas que...
+* test + feedback
+* Discussion
+
+[.notes]
+--
+* code = Oracle Ccontributor Agreement
+* test, feedback, reproduction de bug
+* proposition technique
+* et bien d'autre....
+--
+
+=== S'informer
+
+[.notes]
+--
+* mieux comprendre une nouvelle fonctionnalité.
+* meilleur comprehension du JDK
+--
+
+
+=== Feedback
+
+image::TechpointQRCode.png[]
+
+Merci
+
+[.notes]
+--
+Répéter les questions !!!
+--

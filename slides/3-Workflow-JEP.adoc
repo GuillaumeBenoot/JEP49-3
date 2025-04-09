@@ -1,0 +1,15 @@
+[%notitle]
+== La vie d'une JEP
+
+image::jep-life-cycle.png[width=100%]
+
+[.notes]
+--
+* Draft - c'est le 1er état de la JEP, *le template correctement remplis a été fourni à openJDK et un numéro JBS lui a été attribué*. On va pouvoir commencer à la diffuser dans la communauté afin de valider que l'idée est bonne et réalisable.
+* Submitted - La JEP soumise pour être évalué par la **toutes** communauté afin d'être ajouté à la roadmap.
+* Candidate - La JEP a été ajoutée à la roadmap.
+* Proposed to target - le propriétaire de la JEP établi un plan d'ingénierie crédible et cible une release du JDK pour la livraison.
+* Targeted - le plan d'ingénierie a été validé par les commiter et reviewer du projet.
+* Integrated - développement et les tests unitaires sont fait.
+* Complete - les tests fonctionnels, de performance et de conformités sont livrés.
+--

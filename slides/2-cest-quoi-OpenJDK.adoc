@@ -1,0 +1,193 @@
+[%notitle]
+== OpenJDK
+
+image::openjdk_sans_fond.png[]
+
+* Java SE
+* GPLv2
+
+[.notes]
+--
+La *communauté OpenJDK* est une association de développeur qui collabore autour de l'implémentation open source de la plateforme java standard édition (Java SE).
+
+Elle a été créée en 2006, quand une partie du code source de java a été publié sous License GPLv2. (**LOGICIEL LIBRE**)
+
+(GNU General Public License version 2  - le logiciel peut être copié, modifié et distribué à condition que les copies et dérivé soit également distribué sous même licence)
+
+La communauté est composée de développeurs qui vont avoir différents statuts.
+--
+
+[%notitle.columns.is-vcentered.transparency]
+=== Participant
+
+[.column]
+--
+image::icons/personnage.svg[portrait-perso,witdh=300]
+Participant
+--
+
+[.column]
+--
+
+image::icons/e-mail.png[]
+
+image::icons/communication.png[]
+--
+
+[.notes]
+--
+* participer au discussion
+--
+
+[%notitle.columns.is-vcentered.transparency]
+=== Contributeur
+[.column]
+--
+image::icons/personnage.svg[portrait-perso,witdh=300]
+Contributor
+--
+[.column]
+
+--
+image::icons/contrat.png[]
+[.medium]
+ORACLE CONTRIBUTOR AGREEMENT
+--
+
+[.notes]
+--
+* OCA document juridique
+* proposer des projets
+* Prendre different rôle dans un groupe ou un projet.
+--
+
+[%notitle.columns.is-vcentered.transparency]
+=== OpenJDK Member
+[.column]
+--
+image::icons/personnage.svg[portrait-perso,witdh=300]
+OpenJDK Member
+--
+++++
+<div class="entoure">
+++++
+[.column.aligner-items]
+--
+image::icons/codage.png[]
+image::icons/codage.png[]
+image::icons/codage.png[]
+--
+[.urne]
+--
+image::icons/urne-electorale.png[]
+--
+++++
+</div>
+++++
+
+[.notes]
+--
+* *OpenJDK Member* c'est un **contributeur** qui a un historique de contributions signifiantes
+* vote des autres **OpenJDK members**.
+* Il peut proposer de nouveaux groupes,
+* il peut être leader d'un groupe
+* participer aux votes de nouveaux projets, de nouveaux membres.
+--
+
+[%notitle.columns.is-vcentered.transparency]
+=== OpenJDK Lead
+[.column]
+--
+image::icons/personnage.svg[portrait-perso,witdh=300]
+OpenJDK Lead
+--
+[.column]
+--
+
+image::oracle.png[]
+--
+
+[.notes]
+--
+* *OpenJDK Lead* est une **OpenJDK member** nommé par Oracle
+* dirige les principaux efforts de la communauté, à savoir les nouvelle release du JDK.
+* Il décide de la **ROADMAP**
+* Il siège au conseil d'administration.
+--
+
+=== Groupe
+
+[%step]
+* Build, Compiler, Security, Web...
+* Membre ou leader
+* Sponsoriser des projets
+
+[.notes]
+--
+* Vingtaine de groupes
+* Des roles dans les groupes
+* sponso =  moyen humain
+--
+
+=== Projet
+[%step]
+* Production de code, documentation, ...
+* Sponsorisé par un groupe
+* Feature, release JDK
+* author, committer, reviewer, project lead
+
+[.notes]
+--
+Un  projet peut être **sponsorisé par plusieurs groupes**.
+
+Si un projet n'a plus de sponsor, alors il est dissous.
+
+Projetc lead
+
+* Il a full autorité sur la **partie technique** du projet.
+* Il peut demander des **modifications de code** dans un repository
+* Il a l'obligation d'être le **point d'entrée du projet** pour les mailing list, le contenu web et les repository.
+* Il doit **publier** une fois par trimestre **un rapport** sur les activités du projet.
+--
+
+=== conseil d'administration
+
+[%step.img-left.conseil-bord]
+--
+image::icons/maire.png[]
+*Président* nommé par **Oracle** (Georges Saab)
+--
+[%step.img-left.conseil-bord]
+--
+image::icons/vicePresident.png[]
+*Vice-président* nommé par **IBM** (Annette Keenleyside)
+--
+
+[%step.img-left.conseil-bord]
+--
+image::icons/openjdlLead.png[]
+*OpenJDK Lead* (Mark Reinhold)
+--
+[%step.img-left.conseil-bord]
+--
+image::icons/personne-vip.png[]
+2 membres extraordinaires
+--
+
+
+[.notes]
+--
+Tout ceci est piloté par un conseil d'administration composé
+
+* 2 membres extraordinaires, qui sont *nommé choisis par un vote des OpenJDK Members* pour une durée de 1 an à compter du 1er Avril de chaque années.
+
+Le *conseil de gouvernance* gère la structure et les opérations de la communauté.
+Il fait respecter et maintient le règlement, résout les litiges de procédure et veille à ce qu'une infrastructure suffisante soit disponible.
+Le conseil de gouvernance *n'a pas d'autorité directe sur les décisions techniques* ou de diffusion.
+
+Maintenant que l'on sait qui est qui...
+
+
+--
+
+

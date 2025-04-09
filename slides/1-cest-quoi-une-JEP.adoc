@@ -1,0 +1,63 @@
+== JEP = *JDK Enhancement Proposal*
+
+[.notes]
+--
+Une JEP c'est un document texte,  qui va permettre de définir une nouvelle fonctionnalité.
+
+Une JEP doit être rédigée :
+
+* Pour toutes modifications significatives du JDK,
+* Si une modification demande plus de 2 semaines de travail,
+* Ou si cette modification vient suite à une grande demande des développeurs.
+
+Cela dit, il y a beaucoup de modification qui ne remplisse pas ces conditions et qui sont quand même intégrée au JDK - voir release note.
+--
+[%notitle]
+=== une JEP
+
+[.image-scroll]
+--
+image::JEP-485-Stream-Gatherers.png[height=60%, overFlow=scroll]
+--
+
+[.notes]
+--
+Elle est rédigée à partir d'un template.
+
+C'est un document *vivant* qui va évoluer au cours de sa vie.
+Des sections vont être ajoutées, modifiées, supprimées.
+
+Soumettre par mail à *OpenJDK*.
+
+C'est à partir de ce document que le travaille va commencer dans la communauté OpenJDK.
+--
+
+[%notitle]
+=== rubrique template
+
+[.small-list]
+--
+* Summary - REQUIRED
+* Description - REQUIRED
+* Goals
+* Non-Goals
+* Success Metrics
+* Motivation
+* Alternatives
+* Testing
+* Risks and Assumptions
+* Dependencies
+--
+
+[.notes]
+--
+* Non-Goal : Les objectifs qui ne sont pas recherchés - le but de cette section est d'affiner l'expression du besoin.
+
+* Success Metrics : Si le succès de ce travail peut être mesuré par des métriques numériques spécifiques et des objectifs associés, décrivez-les ici.
+
+* Description : Comment on compte l'implémenter. Un résumé à haut niveau de ce que l'on compte modifier (interfaces, librairies, API, format de fichier...).
+
+* Testing : Les tests qui seront nécessaires pour valider les évolutions (au-delà des TU).
+
+* Risks and Assumptions : Décrivez les risques ou les hypothèses qui doivent être pris en compte dans le cadre de cette proposition.
+--

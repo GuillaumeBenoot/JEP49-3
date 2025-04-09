@@ -1,0 +1,57 @@
+== Lire une JEP
+
+image::enTete.png[]
+
+[.notes]
+--
+Type: Feature | Research | Infrastructure | Process
+
+issue -> jira pour déclaré les bugs
+
+--
+
+[%notitle.columns.is-vcentered.transparency]
+=== rubrique template
+[.column]
+--
+Obligatoire
+--
+
+[%step.column]
+---
+* Summary
+* Description
+
+[%step]
+--
+* Goals
+* Non-Goals
+--
+
+// [%step]
+// --
+// * Success Metrics
+// * Motivation
+// * Alternatives
+// * Testing
+// * Risks and Assumptions
+// * Dependencies
+// --
+---
+
+[.notes]
+--
+ *Non-Goal : les objectifs qui ne sont pas recherché - le but de cette section est d'affiner l'expression du besoin.
+
+* Success Metrics : Si le succès de ce travail peut être mesuré par des métriques numériques spécifiques et des objectifs associés, décrivez-les ici.
+
+* Description : Comment on compte l'implémentér
+Un résumé à haut niveau de ce que l'on compte modifier (interfaces, librairies, api, format de fichier...)
+
+* Testing : Les tests qui seront nécéssaire pour valider les evolutions (au dela des TU)
+
+* Risks and Assumptions :Décrivez les risques ou les hypothèses qui doivent être pris en compte dans le cadre de cette proposition
+
+* Dependencies
+
+--
