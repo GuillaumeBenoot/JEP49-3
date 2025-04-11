@@ -24,7 +24,7 @@
 
 === Feedback
 
-image::TechpointQRCode.png[]
+image::QRCodeDevoxxFR2025.png[]
 
 Merci
 

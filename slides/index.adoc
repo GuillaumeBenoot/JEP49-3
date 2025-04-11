@@ -4,6 +4,7 @@
 --
 Bonjour, aujourd'hui on va parler de java, du JDK et plus précisément de JEP, comment elles naissent, comment elles vivent, comment vous pouvez y contribuer ou à défaud ce qu'elles peuvent apporter.
 --
+
 :docinfo: private
 :source-highlighter: highlight.js
 :highlightjsdir: highlight.js
@@ -14,6 +15,7 @@ Bonjour, aujourd'hui on va parler de java, du JDK et plus précisément de JEP, 
 :revealjs_history: true
 :revealjs_pdfseparatefragments: false
 :revealjs_width: 1200
+:title-slide-background-image: devoxx_2025_microphone.jpg
 :title-slide-background-size: cover
 :title-slide-background-repeat: no-repeat
 :title-slide-filter: blur(4px)

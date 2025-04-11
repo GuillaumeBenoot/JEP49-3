@@ -1,66 +1,23 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins");
 
+@font-face {
+    font_family: Old Maquine Caps;
+    src: url("../fonts/OldmaquineCaps.ttf") format("opentype"),
+    url("../fonts/OldmaquineCaps.otf") format("opentype"),
+    url("../fonts/OldmaquineCaps.woff") format("woff");
+}
+
 
 :root {
     --r-background-color: #EEEEEE;
     --r-main-color: #111012;
     --r-main-font: 'Poppins';
+    --r-heading-font: 'Old Maquine Caps';
+    --r-link-color: #8FAADC
 }
 
-h2{
-    color: #009DDF !important;
-}
-
-.image-scroll  .imageblock{
-    height: 60vh;
-    overflow: auto !important;
-}
-.image-scroll  .imageblock img{
-    height: auto !important;
-    max-height: none;
-    width: 80% !important;
-}
-
-.img-left .content{
-    display: flex;
-    column-gap: 30px;
-}
-.img-left .imageblock img{
-    width: 64px;
-    height: 64px;
-}
-.img-left .content .paragraph{
-    flex: 1;
-    text-align: left;
-}
-.img-left .content .imageblock{
-    flex-shrink: 0;
-}
-.aligner-items .content{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-.urne{
-    flex-direction: column;
-}
-.entoure{
-    flex-basis: 50%;
-}
-.conseil-bord{
-    font-size: 40px !important;
-}
-
-.conclusion{
-    /*font-size: large !important;*/
-    color: #1982c4;
-    text-align: left;
-}
-
-body {
-
-
-    footer {
+body:not(.title) {
+    & footer {
         z-index: 10;
         position: absolute;
         left: 0;
@@ -69,19 +26,81 @@ body {
         min-height: 80px;
         text-align: center;
     }
+    background-image: none !important;
+}
+
+h2 {
+    color: #009DDF !important;
+}
+
+.image-scroll .imageblock {
+    height: 60vh;
+    overflow: auto !important;
+}
+
+.image-scroll .imageblock img {
+    height: auto !important;
+    max-height: none;
+    width: 80% !important;
+}
+
+.img-left .content {
+    display: flex;
+    column-gap: 30px;
+}
+
+.img-left .imageblock img {
+    width: 64px;
+    height: 64px;
+}
+
+.img-left .content .paragraph {
+    flex: 1;
+    text-align: left;
+}
+
+.img-left .content .imageblock {
+    flex-shrink: 0;
+}
+
+.aligner-items .content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.urne {
+    flex-direction: column;
+}
+
+.entoure {
+    flex-basis: 50%;
+}
+
+.conseil-bord {
+    font-size: 40px !important;
+}
+
+.conclusion {
+    /*font-size: large !important;*/
+    color: #1982c4;
+    text-align: left;
+}
+
+body {
 
     .reveal {
         h1 {
-            /*display: none;*/
+            color: #fff;
 
-            text-shadow: 0 0 7px #fff,
-            0 0 10px #fff,
-            0 0 21px #fff,
-            0 0 42px #84c8d8,
-            0 0 82px #84c8d8,
-            0 0 92px #84c8d8,
-            0 0 102px #84c8d8,
-            0 0 151px #84c8d8;
+            text-shadow: 0 0 7px #3A3938,
+            0 0 10px #3A3938,
+            0 0 21px #3A3938,
+            0 0 42px #3A3938,
+            0 0 82px #3A3938,
+            0 0 92px #3A3938,
+            0 0 102px #3A3938,
+            0 0 151px #3A3938;
         }
 
         ul {
@@ -95,7 +114,7 @@ body {
 
     }
 
-    .image-gauche{
+    .image-gauche {
         float: left;
         margin-right: 10px;
     }
@@ -181,8 +200,8 @@ body {
     }
 
     .small-list {
-       font-size: 0.5em;
-       line-height: 0.3;
-     }
+        font-size: 0.5em;
+        line-height: 0.3;
+    }
 
 }
