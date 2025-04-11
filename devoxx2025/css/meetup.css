@@ -1,0 +1,207 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins");
+
+@font-face {
+    font_family: Old Maquine Caps;
+    src: url("../fonts/OldmaquineCaps.ttf") format("opentype"),
+    url("../fonts/OldmaquineCaps.otf") format("opentype"),
+    url("../fonts/OldmaquineCaps.woff") format("woff");
+}
+
+
+:root {
+    --r-background-color: #EEEEEE;
+    --r-main-color: #111012;
+    --r-main-font: 'Poppins';
+    --r-heading-font: 'Old Maquine Caps';
+    --r-link-color: #8FAADC
+}
+
+body:not(.title) {
+    & footer {
+        z-index: 10;
+        position: absolute;
+        left: 0;
+        width: 100%;
+        bottom: 0;
+        min-height: 80px;
+        text-align: center;
+    }
+    background-image: none !important;
+}
+
+h2 {
+    color: #009DDF !important;
+}
+
+.image-scroll .imageblock {
+    height: 60vh;
+    overflow: auto !important;
+}
+
+.image-scroll .imageblock img {
+    height: auto !important;
+    max-height: none;
+    width: 80% !important;
+}
+
+.img-left .content {
+    display: flex;
+    column-gap: 30px;
+}
+
+.img-left .imageblock img {
+    width: 64px;
+    height: 64px;
+}
+
+.img-left .content .paragraph {
+    flex: 1;
+    text-align: left;
+}
+
+.img-left .content .imageblock {
+    flex-shrink: 0;
+}
+
+.aligner-items .content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.urne {
+    flex-direction: column;
+}
+
+.entoure {
+    flex-basis: 50%;
+}
+
+.conseil-bord {
+    font-size: 40px !important;
+}
+
+.conclusion {
+    /*font-size: large !important;*/
+    color: #1982c4;
+    text-align: left;
+}
+
+body {
+
+    .reveal {
+        h1 {
+            color: #fff;
+
+            text-shadow: 0 0 7px #3A3938,
+            0 0 10px #3A3938,
+            0 0 21px #3A3938,
+            0 0 42px #3A3938,
+            0 0 82px #3A3938,
+            0 0 92px #3A3938,
+            0 0 102px #3A3938,
+            0 0 151px #3A3938;
+        }
+
+        ul {
+            list-style-type: none;
+        }
+
+        .progress {
+            color: #241F35;
+            height: 7px;
+        }
+
+    }
+
+    .image-gauche {
+        float: left;
+        margin-right: 10px;
+    }
+
+
+    .light h2 {
+        color: var(--r-background-color);
+        -webkit-text-stroke: 2px black;
+        text-stroke: 2px black;
+        font-size: var(--r-heading2-size);
+    }
+
+
+    .transparency.slide-background.present {
+        opacity: 0.50;
+    }
+
+    .big {
+        font-size: 60px;
+        color: #012d3f;
+    }
+
+    .use-case {
+        font-family: "Gochi Hand", serif;
+    }
+
+    .red {
+        color: #111012;
+    }
+
+    img {
+        border-radius: 10px;
+    }
+
+    .vertical-align-middle > p {
+        vertical-align: middle;
+    }
+
+    .vertical-align-middle > p > span {
+        vertical-align: middle;
+        margin: 0;
+    }
+
+    .vertical-align-middle > p > span > img {
+        vertical-align: middle;
+        margin: 0;
+    }
+
+    .important-text > * {
+        font-size: xxx-large;
+        font-weight: bold;
+        color: #012d3f;
+    }
+
+    .small {
+        font-size: small;
+    }
+
+    .medium {
+        font-size: 38px;
+    }
+
+    .column.has-text-right > div > div.hdlist.small > table {
+        margin-right: 0;
+    }
+
+    .column.has-text-left > div > div.hdlist.small > table {
+        margin-left: 0;
+    }
+
+    .blur {
+        filter: blur(4px);
+    }
+
+    li {
+        list-style-type: none;
+    }
+
+    .down {
+        position: fixed;
+        bottom: 0;
+        right: 0;
+    }
+
+    .small-list {
+        font-size: 0.5em;
+        line-height: 0.3;
+    }
+
+}
