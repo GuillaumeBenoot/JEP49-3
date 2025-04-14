@@ -24,7 +24,7 @@
 
 === Feedback
 
-image::QRCodeDevoxxFR2025.png[]
+image::QRCodeDevoxxFR2025.png[width=300]
 
 Merci
 

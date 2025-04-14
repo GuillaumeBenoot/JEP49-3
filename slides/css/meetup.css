@@ -26,7 +26,9 @@ body:not(.title) {
         min-height: 80px;
         text-align: center;
     }
-    background-image: none !important;
+    .slide-background-content{
+        background-image: none !important;
+    }
 }
 
 h2 {
@@ -82,7 +84,6 @@ h2 {
 }
 
 .conclusion {
-    /*font-size: large !important;*/
     color: #1982c4;
     text-align: left;
 }
@@ -108,7 +109,7 @@ body {
         }
 
         .progress {
-            color: #241F35;
+            color: #009DDF;
             height: 7px;
         }
 
@@ -128,9 +129,9 @@ body {
     }
 
 
-    .transparency.slide-background.present {
-        opacity: 0.50;
-    }
+    /*.transparency.slide-background.present {*/
+    /*    opacity: 0.50;*/
+    /*}*/
 
     .big {
         font-size: 60px;
