@@ -2,7 +2,7 @@
 
 @font-face {
     font_family: Old Maquine Caps;
-    src: url("../fonts/OldmaquineCaps.ttf") format("opentype"),
+    src: url("../fonts/OldmaquineCaps.ttf") format("truetype"),
     url("../fonts/OldmaquineCaps.otf") format("opentype"),
     url("../fonts/OldmaquineCaps.woff") format("woff");
 }
@@ -25,9 +25,6 @@ body:not(.title) {
         bottom: 0;
         min-height: 80px;
         text-align: center;
-    }
-    .slide-background-content{
-        background-image: none !important;
     }
 }
 
@@ -128,18 +125,9 @@ body {
         font-size: var(--r-heading2-size);
     }
 
-
-    /*.transparency.slide-background.present {*/
-    /*    opacity: 0.50;*/
-    /*}*/
-
     .big {
         font-size: 60px;
         color: #012d3f;
-    }
-
-    .use-case {
-        font-family: "Gochi Hand", serif;
     }
 
     .red {
