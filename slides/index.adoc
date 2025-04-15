@@ -1,10 +1,4 @@
 = JEP 49.3 - cette nouvelle fonctionnalité Java est validée !!!
-
-[.notes]
---
-Bonjour, aujourd'hui on va parler de java, du JDK et plus précisément de JEP, comment elles naissent, comment elles vivent, comment vous pouvez y contribuer ou à défaud ce qu'elles peuvent apporter.
---
-
 :docinfo: private
 :source-highlighter: highlight.js
 :highlightjsdir: highlight.js
@@ -21,6 +15,13 @@ Bonjour, aujourd'hui on va parler de java, du JDK et plus précisément de JEP, 
 :title-slide-filter: blur(4px)
 :customcss: css/meetup.css
 :imagesdir: images
+
+
+[.notes]
+--
+Bonjour, aujourd'hui on va parler de java, du JDK et plus précisément de JEP, comment elles naissent, comment elles vivent, comment vous pouvez y contribuer ou à défaud ce qu'elles peuvent apporter.
+--
+
 
 include::0-Presentation.adoc[]
 include::1-cest-quoi-une-JEP.adoc[]
