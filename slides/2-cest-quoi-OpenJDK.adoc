@@ -150,7 +150,7 @@ Projetc lead
 * Il doit **publier** une fois par trimestre **un rapport** sur les activités du projet.
 --
 
-=== conseil d'administration
+=== Governing Board
 
 [%step.img-left.conseil-bord]
 --
