@@ -24,7 +24,7 @@
 
 === Feedback
 
-image::TechpointQRCode.png[]
+image::bdx-io-qr-code.png[]
 
 Merci
 
