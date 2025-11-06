@@ -24,7 +24,7 @@
 
 === Feedback
 
-image::bdx-io-qr-code.png[]
+image::devfest-toulouse-qrcode.png[]
 
 Merci
 
