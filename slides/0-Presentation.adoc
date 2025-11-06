@@ -18,9 +18,9 @@ Onepoint BDX
 
 [.notes]
 --
-* Onepoint - 3 ans
-* ESN - éléments de langage
-* affiliation Qualiopi
+* Onepoint - 4 ans
+* conseil numérique
+* partout dans le monde
 --
 
 [%notitle.columns.is-vcentered.transparency]
