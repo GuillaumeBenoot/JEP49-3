@@ -22,11 +22,11 @@
 --
 
 
-=== Feedback
+=== Merci
 
-image::devfest-toulouse-qrcode.png[]
+image::SOD-decembre-2025.png[]
 
-Merci
+
 
 [.notes]
 --
